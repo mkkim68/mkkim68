@@ -5,6 +5,7 @@
 <div align="center">
 <h3>✉ Contact</h3>
 <a href="https://www.instagram.com/mk_is_mkkim?igsh=YXB1OTYxcDhxdmR0&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/mk_is_mkkim-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.google.com/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/infinitelove367@gmail.com-EAEAEA?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 </div>
 
 <div align="center">
