@@ -23,7 +23,7 @@
   <h3>📊 My Stats</h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkkim68&show_icons=true&theme=nord)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mkkim68&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mkkim68&theme=dark&locale=ko)](https://git.io/streak-stats)
   ___
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmk7375)](https://solved.ac/kimmk7375/)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkkim68&layout=compact)
