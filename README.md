@@ -1,18 +1,33 @@
-<div align="center">
-  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" />
+<div align="center" display="flex">
+  <img src="https://avatars.githubusercontent.com/u/116176465?v=4" />
+  <h1>Welcome to 김민경(金旼熲)'s Github</h1>
 </div>
 
 <div align="center">
 <h3>✉ Contact</h3>
 <a href="https://www.instagram.com/hamdragon_mk?igsh=YXB1OTYxcDhxdmR0&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/hamdragon_mk-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="https://www.google.com/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/infinitelove367@gmail.com-EAEAEA?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://www.google.com/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/kimminkyoung0608@gmail.com-EAEAEA?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 </div>
 
+
 <div align="center">
-  <h3>✏ I'm studying now...</h3>
+  <h3>🛠 Tech Stack</h3>
+  <h4>Languages</h4>
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=#3776AB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=#3178C6" />&nbsp
+</br>
+  <h4>Frontend</h4>
+  <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26" />&nbsp
+  <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp
   <img src="https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />&nbsp
+</br>
+  <h4>Backend</h4>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  </br>
+  <h4>Infra</h4>
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black" />&nbsp
 </div>
 
 <div align="center">
