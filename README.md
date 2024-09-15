@@ -5,7 +5,7 @@
 
 <div align="center">
 <h3>✉ Contact</h3>
-<a href="https://www.instagram.com/hamdragon_mk?igsh=YXB1OTYxcDhxdmR0&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/hamdragon_mk-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<!-- <a href="https://www.instagram.com/hamdragon_mk?igsh=YXB1OTYxcDhxdmR0&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/hamdragon_mk-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a> -->
 <a href="https://www.google.com/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/kimminkyoung0608@gmail.com-EAEAEA?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 </div>
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26" />&nbsp
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp
   <img src="https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp
 </br>
   <h4>Backend</h4>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
