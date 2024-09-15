@@ -1,7 +1,14 @@
 <div align="center" display="flex">
   <img src="https://avatars.githubusercontent.com/u/116176465?v=4" />
   <h1>Welcome to 김민경(金旼熲)'s Github</h1>
+  
 </div>
+  <div align="center" display="flex">
+  
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkkim68&theme=holi) -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkkim68&show_icons=true&theme=holi)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmk7375)](https://solved.ac/kimmk7375/)
+  </div>
 
 <div align="center">
 <h3>✉ Contact</h3>
@@ -34,6 +41,7 @@
   <img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </br>
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=black" />
@@ -41,17 +49,3 @@
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black" />
 </div>
 
-
-
-<div align="center">
-  <h3>📊 My Stats</h3>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkkim68&show_icons=true&theme=nord)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mkkim68&theme=dark&locale=ko)](https://git.io/streak-stats)
-  ___
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmk7375)](https://solved.ac/kimmk7375/)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkkim68&layout=compact)
-  ___
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mkkim68&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
