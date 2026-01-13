@@ -6,7 +6,7 @@
   <div align="center" display="flex">
   
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkkim68&theme=holi) -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkkim68&show_icons=true&theme=holi)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkkim68&show_icons=true&theme=holi) -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmk7375)](https://solved.ac/kimmk7375/)
   </div>
 
