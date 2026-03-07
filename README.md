@@ -1,4 +1,5 @@
-![김민경 프로필 이미지](https://avatars.githubusercontent.com/u/116176465?v=4)
+<img width="288" height="289" alt="철컥 복사본" src="https://github.com/user-attachments/assets/81c91b2f-52e7-4751-bcf8-de1e5e514c0c" />
+
 
 # Welcome to 김민경's Github
 
