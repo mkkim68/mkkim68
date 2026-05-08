@@ -14,6 +14,7 @@
 <h3>✉ Contact</h3>
 <!-- <a href="https://www.instagram.com/hamdragon_mk?igsh=YXB1OTYxcDhxdmR0&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/hamdragon_mk-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a> -->
 <a href="https://www.google.com/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/kimminkyoung0608@gmail.com-EAEAEA?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://velog.io/@mkkim7375/posts" target="_blank"><img src="https://img.shields.io/badge/Velog@mkkim7375-ffffff?style=flat-square&logo=velog&logoColor=20C997"/></a>
 </div>
 
 
